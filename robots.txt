@@ -1,1 +1,11 @@
+User-agent: *
+Allow: /
+
+# Page d'erreur dédiée
+Disallow: /404.html
+
+# Canonical principal
+Host: www.syntheticaudit.com
+
+# Pas de sitemap dédié à ce stade
 
